@@ -1,0 +1,125 @@
+//a[contains(text(),'wwd')]
+//input[@id='sss']
+//div[conatins(@id,'text_)]
+//input[starts-with(@id=,'text')]
+//input[ends-with(@id=,'text')]
+//a[contains(text(),'test')]
+//a[conatins(text(),'my acount')]
+a Test Case is a set of pasitive and nagative excutable step of  test Scenario 
+mainly it will incoud Test case id , Test case name,,,,,,,,,,,,
+A Test Scenario is a high leverl qalacification of Test that provide one line of 
+information about what you have to Test
+A Test Plan is technical documentent destcribing  scopeS AND  activates invoke 
+in THE  Testing 
+Bag when Actual and accepted value doesnt math it is a defact
+git commit -m "my "first commit" 
+
+List <webelements> linkList driver.findelementsby.tagName("a");
+system.out.println(linkList.size);
+how to get text of it
+for(int i=0;i<linkList.size;i++)
+String linkText = linkList.get(i).getText();
+system.out.println("linkText");
+actions act =new actions(driver);
+first step //// act.movetoElement[(driver.findElemntby.id=10)].build.perform);
+second driver.findElementby.linkText("fleet").click
+act.clickandhold.movetoElements.release.build.perform
+
+Reversing 
+
+how to reverse an string
+
+String name="deepak"
+int leng =name.length();
+
+String rev="";
+
+
+
+
+
+//input[contains(text(),'Google')]
+//input[contains(@name,'pwd')]
+//a[text()='ad']
+
+//input[@id='abc']
+//input[contains(text(),'abv')]
+//input[contains(@name,'aba')]
+/following-siblings::img
+
+
+/preceding-siblings::table
+
+
+//div[contains(text(),'abc)
+
+/following::a[2]
+
+
+19174526115
+
+
+
+
+
+
+
+
+
+
+
+//String str=Arrays.toString(a);
+	//System.out.println(str);
+	//for (int i=0;i<=a.length-1;i++) {
+	//System.out.println(a[i]);	
+	
+	//for(int str: a) {
+		//System.out.println(str);
+		
+		//boolean bb=Arrays.asList(a).contains(10);
+	//System.out.println(bb);
+	
+	
+
+
+for(int i=leng-1;i>=o;i--)
+systme.out.println(rev)
+
+
+
+
+
+
+ git stash save
+git stash apply, will bring stash fill back
+git stash pop ,will  bring stash file back and remove old vesion and keep new version
+
+git stash list , will bring list of indox stash files 
+git stash clear ,this commind  will delete stashes 
+git branch    [FirstBranch]  will create a branch 
+git  checkout [FirstBranch]
+git init 
+git status 
+git add
+git status 
+git commit -m "Test class his been modified "
+git status
+ git push -u orighin master 
+<itestlisners></>
+* in xpath means any tagname but must have specific text or value 
+
+//*[@name='abc']
+//input[starts-with(@action,'humenrecorces')]
+//input[contains(text(),'Syntas')]
+//div[@name='abc' and id='ddd']
+//input[starts-with(@name,'abc')
+//input[starts-with(text(),'abc')]
+
+
+
+
+
+
+
+
+
